@@ -1,4 +1,4 @@
 # demo-repository
 First Git repository
 <br>
-Author - Avdhoot Gole
+Author - Avdhoot Pravin Gole
